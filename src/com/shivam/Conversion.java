@@ -15,5 +15,8 @@ public class Conversion {
 		}
 		return sb.toString();
 	}
+	
+	public void display(){
+	}
 //
 }
