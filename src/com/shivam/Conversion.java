@@ -16,4 +16,8 @@ public class Conversion {
 		return sb.toString();
 	}
 //
+	public void display1{
+		System.out.println("");
+	}
+
 }
